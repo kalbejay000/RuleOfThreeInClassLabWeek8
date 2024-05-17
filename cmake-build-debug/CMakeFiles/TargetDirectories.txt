@@ -1,0 +1,3 @@
+C:/Users/Jayden/CLionProjects/AssetClass/cmake-build-debug/CMakeFiles/AssetClass.dir
+C:/Users/Jayden/CLionProjects/AssetClass/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jayden/CLionProjects/AssetClass/cmake-build-debug/CMakeFiles/rebuild_cache.dir

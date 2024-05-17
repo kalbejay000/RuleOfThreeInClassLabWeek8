@@ -1,0 +1,10 @@
+# ninja log v5
+0	541	7376744051036016	CMakeFiles/AssetClass.dir/main.cpp.obj	a33b6b4d1287885b
+18	562	7376744051236019	CMakeFiles/AssetClass.dir/Assets.cpp.obj	2dd84539e0e44a6b
+562	853	7376744054009573	AssetClass.exe	60d09351c9c299de
+5	740	7376750025421873	CMakeFiles/AssetClass.dir/main.cpp.obj	a33b6b4d1287885b
+25	768	7376750025697066	CMakeFiles/AssetClass.dir/Assets.cpp.obj	2dd84539e0e44a6b
+768	1080	7376750028617267	AssetClass.exe	60d09351c9c299de
+5	937	7376750248809453	CMakeFiles/AssetClass.dir/main.cpp.obj	a33b6b4d1287885b
+36	957	7376750249011417	CMakeFiles/AssetClass.dir/Assets.cpp.obj	2dd84539e0e44a6b
+958	1274	7376750252000197	AssetClass.exe	60d09351c9c299de
